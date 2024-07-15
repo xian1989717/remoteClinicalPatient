@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/project/ProjectPage",
+    "pages/login/LoginPage"
+  ],
+  "window": {
+    "designWidth": 375,
+    "autoDesignWidth": false
+  }
+}
